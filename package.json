@@ -1,0 +1,28 @@
+{
+  "name": "alpinianodejs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrascon89/AlpiniaNodeJs.git"
+  },
+  "author": "VictoRascon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrascon89/AlpiniaNodeJs/issues"
+  },
+  "homepage": "https://github.com/vrascon89/AlpiniaNodeJs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
